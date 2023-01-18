@@ -1,0 +1,6 @@
+At first Run Server.java
+From Server.java you will get the hostname and port
+After that run Client.java 
+Client will ask for hostname or ip address. Enter the hostname and port from server
+Once  connected you can send messeges from both sides
+To cancel the connection type "Bye" or "bye" both from client and server
